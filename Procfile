@@ -1,1 +1,1 @@
-web: bokeh serve --port=$PORT --num-procs=0 --host=ancient-taiga-95456.herokuapp.com --address=0.0.0.0 --use-xheaders app2.py
+web: bokeh serve --port=$PORT --num-procs=0 --host=loanpayoffviz.herokuapp.com --address=0.0.0.0 --use-xheaders app2.py
